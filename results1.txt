@@ -1,0 +1,83 @@
+Iter. 13-7-21-18
+LIS: 0,04562, max = 40
+BIS: 0,00154, max = 4
+TIS: 0,00007, max = 2
+Iter. 13-27-21-18
+LIS: 0,04540, max = 40
+BIS: 0,00185, max = 6
+TIS: 0,00011, max = 2
+13 of 31 cycles passed...
+Iter. 14-7-20-18
+LIS: 0,04127, max = 31
+BIS: 0,00201, max = 9
+TIS: 0,00025, max = 5
+Iter. 14-7-20-30
+LIS: 0,03750, max = 25
+BIS: 0,00161, max = 8
+TIS: 0,00025, max = 5
+14 of 31 cycles passed...
+15 of 31 cycles passed...
+Iter. 16-22-20-5
+LIS: 0,04149, max = 28
+BIS: 0,00181, max = 9
+TIS: 0,00009, max = 2
+Iter. 16-22-20-14
+LIS: 0,04172, max = 29
+BIS: 0,00181, max = 9
+TIS: 0,00011, max = 3
+Iter. 16-22-20-27
+LIS: 0,03938, max = 27
+BIS: 0,00174, max = 9
+TIS: 0,00007, max = 2
+16 of 31 cycles passed...
+Iter. 17-7-21-18
+LIS: 0,04682, max = 40
+BIS: 0,00158, max = 5
+TIS: 0,00007, max = 2
+Iter. 17-20-21-18
+LIS: 0,04513, max = 33
+BIS: 0,00178, max = 5
+TIS: 0,00007, max = 2
+Iter. 17-23-21-18
+LIS: 0,04524, max = 36
+BIS: 0,00154, max = 5
+TIS: 0,00007, max = 2
+Iter. 17-27-21-18
+LIS: 0,04644, max = 40
+BIS: 0,00181, max = 5
+TIS: 0,00009, max = 2
+17 of 31 cycles passed...
+18 of 31 cycles passed...
+Iter. 19-9-23-20
+LIS: 0,04511, max = 34
+BIS: 0,00183, max = 6
+TIS: 0,00009, max = 2
+19 of 31 cycles passed...
+Iter. 20-7-0-18
+LIS: 0,04515, max = 40
+BIS: 0,00158, max = 4
+TIS: 0,00011, max = 2
+Iter. 20-7-21-18
+LIS: 0,04595, max = 43
+BIS: 0,00136, max = 4
+TIS: 0,00007, max = 2
+Iter. 20-10-24-21
+LIS: 0,04562, max = 33
+BIS: 0,00154, max = 4
+TIS: 0,00007, max = 2
+Iter. 20-10-28-21
+LIS: 0,04524, max = 28
+BIS: 0,00176, max = 4
+TIS: 0,00013, max = 2
+Iter. 20-21-28-21
+LIS: 0,04517, max = 32
+BIS: 0,00154, max = 4
+TIS: 0,00007, max = 2
+Iter. 20-27-0-18
+LIS: 0,04522, max = 40
+BIS: 0,00158, max = 5
+TIS: 0,00009, max = 2
+Iter. 20-27-21-18
+LIS: 0,04580, max = 43
+BIS: 0,00178, max = 5
+TIS: 0,00007, max = 2

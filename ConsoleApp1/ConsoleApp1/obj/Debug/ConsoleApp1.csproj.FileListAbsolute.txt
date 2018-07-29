@@ -1,0 +1,12 @@
+E:\Петренко\crypt_lab4\Виженер\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Петренко\crypt_lab4\Виженер\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Петренко\crypt_lab4\Виженер\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Петренко\crypt_lab4\Виженер\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Петренко\crypt_lab4\Виженер\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Петренко\crypt_lab4\Виженер\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

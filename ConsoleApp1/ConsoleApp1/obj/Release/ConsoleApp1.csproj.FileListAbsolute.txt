@@ -1,0 +1,6 @@
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+E:\Петренко\Виженер\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb

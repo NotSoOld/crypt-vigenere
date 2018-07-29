@@ -1,0 +1,867 @@
+-------------FOR 4 LETTER PHRASE:
+Letter 1:
+п (shift 15): 0,63
+ж (shift 6): 0,646
+м (shift 12): 0,663
+Letter 2:
+э (shift 28): 0,594
+щ (shift 25): 0,596
+а (shift 0): 0,656
+Letter 3:
+р (shift 16): 0,616
+л (shift 11): 0,66
+ф (shift 20): 0,682
+Letter 4:
+е (shift 5): 0,624
+ь (shift 27): 0,628
+я (shift 30): 0,653
+
+-----------------------------------------
+-------------FOR 5 LETTER PHRASE:
+Letter 1:
+и (shift 8): 0,608
+р (shift 16): 0,619
+е (shift 5): 0,62
+Letter 2:
+г (shift 3): 0,572
+а (shift 0): 0,619
+д (shift 4): 0,635
+Letter 3:
+к (shift 10): 0,612
+н (shift 13): 0,645
+и (shift 8): 0,653
+Letter 4:
+э (shift 28): 0,641
+п (shift 15): 0,659
+ж (shift 6): 0,674
+Letter 5:
+б (shift 1): 0,586
+ю (shift 29): 0,602
+ж (shift 6): 0,675
+
+-----------------------------------------
+-------------FOR 6 LETTER PHRASE:
+Letter 1:
+п (shift 15): 0,613
+р (shift 16): 0,619
+ю (shift 29): 0,643
+Letter 2:
+а (shift 0): 0,614
+е (shift 5): 0,65
+в (shift 2): 0,651
+Letter 3:
+р (shift 16): 0,642
+л (shift 11): 0,679
+щ (shift 25): 0,703
+Letter 4:
+э (shift 28): 0,63
+а (shift 0): 0,646
+г (shift 3): 0,672
+Letter 5:
+у (shift 19): 0,641
+т (shift 18): 0,649
+п (shift 15): 0,655
+Letter 6:
+ж (shift 6): 0,632
+е (shift 5): 0,642
+г (shift 3): 0,646
+
+-----------------------------------------
+-------------FOR 7 LETTER PHRASE:
+Letter 1:
+э (shift 28): 0,596
+а (shift 0): 0,653
+ф (shift 20): 0,666
+Letter 2:
+п (shift 15): 0,606
+г (shift 3): 0,661
+б (shift 1): 0,667
+Letter 3:
+у (shift 19): 0,662
+т (shift 18): 0,699
+р (shift 16): 0,711
+Letter 4:
+х (shift 21): 0,624
+ш (shift 24): 0,641
+щ (shift 25): 0,645
+Letter 5:
+з (shift 7): 0,634
+м (shift 12): 0,661
+р (shift 16): 0,668
+Letter 6:
+ж (shift 6): 0,578
+о (shift 14): 0,697
+д (shift 4): 0,699
+Letter 7:
+в (shift 2): 0,57
+э (shift 28): 0,637
+г (shift 3): 0,642
+
+-----------------------------------------
+-------------FOR 8 LETTER PHRASE:
+Letter 1:
+п (shift 15): 0,629
+м (shift 12): 0,652
+т (shift 18): 0,771
+Letter 2:
+ы (shift 26): 0,683
+ю (shift 29): 0,741
+а (shift 0): 0,757
+Letter 3:
+р (shift 16): 0,758
+л (shift 11): 0,789
+и (shift 8): 0,852
+Letter 4:
+е (shift 5): 0,679
+й (shift 9): 0,68
+ь (shift 27): 0,688
+Letter 5:
+щ (shift 25): 0,648
+в (shift 2): 0,676
+э (shift 28): 0,684
+Letter 6:
+щ (shift 25): 0,588
+э (shift 28): 0,699
+ч (shift 23): 0,731
+Letter 7:
+р (shift 16): 0,702
+п (shift 15): 0,724
+т (shift 18): 0,745
+Letter 8:
+ь (shift 27): 0,657
+б (shift 1): 0,702
+г (shift 3): 0,71
+
+-----------------------------------------
+-------------FOR 9 LETTER PHRASE:
+Letter 1:
+н (shift 13): 0,628
+щ (shift 25): 0,659
+я (shift 30): 0,665
+Letter 2:
+ж (shift 6): 0,652
+й (shift 9): 0,662
+у (shift 19): 0,666
+Letter 3:
+ю (shift 29): 0,611
+г (shift 3): 0,646
+ж (shift 6): 0,648
+Letter 4:
+ю (shift 29): 0,651
+э (shift 28): 0,674
+х (shift 21): 0,708
+Letter 5:
+г (shift 3): 0,63
+в (shift 2): 0,642
+т (shift 18): 0,662
+Letter 6:
+я (shift 30): 0,576
+в (shift 2): 0,677
+д (shift 4): 0,701
+Letter 7:
+ж (shift 6): 0,57
+а (shift 0): 0,637
+ч (shift 23): 0,688
+Letter 8:
+и (shift 8): 0,515
+е (shift 5): 0,626
+л (shift 11): 0,668
+Letter 9:
+щ (shift 25): 0,558
+ц (shift 22): 0,641
+и (shift 8): 0,672
+
+-----------------------------------------
+-------------FOR 10 LETTER PHRASE:
+Letter 1:
+р (shift 16): 0,652
+у (shift 19): 0,715
+х (shift 21): 0,725
+Letter 2:
+а (shift 0): 0,635
+и (shift 8): 0,671
+е (shift 5): 0,672
+Letter 3:
+р (shift 16): 0,603
+п (shift 15): 0,634
+л (shift 11): 0,683
+Letter 4:
+г (shift 3): 0,673
+ю (shift 29): 0,694
+б (shift 1): 0,748
+Letter 5:
+о (shift 14): 0,638
+м (shift 12): 0,66
+п (shift 15): 0,667
+Letter 6:
+е (shift 5): 0,508
+и (shift 8): 0,525
+л (shift 11): 0,648
+Letter 7:
+г (shift 3): 0,607
+я (shift 30): 0,672
+ж (shift 6): 0,677
+Letter 8:
+и (shift 8): 0,689
+д (shift 4): 0,701
+х (shift 21): 0,702
+Letter 9:
+п (shift 15): 0,527
+ф (shift 20): 0,664
+й (shift 9): 0,67
+Letter 10:
+б (shift 1): 0,557
+ю (shift 29): 0,615
+ч (shift 23): 0,702
+
+-----------------------------------------
+-------------FOR 11 LETTER PHRASE:
+Letter 1:
+щ (shift 25): 0,665
+г (shift 3): 0,692
+д (shift 4): 0,698
+Letter 2:
+г (shift 3): 0,657
+щ (shift 25): 0,715
+э (shift 28): 0,72
+Letter 3:
+ш (shift 24): 0,634
+р (shift 16): 0,645
+у (shift 19): 0,651
+Letter 4:
+ж (shift 6): 0,61
+э (shift 28): 0,696
+а (shift 0): 0,704
+Letter 5:
+м (shift 12): 0,693
+й (shift 9): 0,7
+п (shift 15): 0,703
+Letter 6:
+т (shift 18): 0,666
+ы (shift 26): 0,667
+д (shift 4): 0,671
+Letter 7:
+л (shift 11): 0,619
+й (shift 9): 0,677
+г (shift 3): 0,711
+Letter 8:
+п (shift 15): 0,699
+р (shift 16): 0,749
+ю (shift 29): 0,75
+Letter 9:
+в (shift 2): 0,6
+у (shift 19): 0,65
+п (shift 15): 0,652
+Letter 10:
+б (shift 1): 0,574
+г (shift 3): 0,626
+ж (shift 6): 0,634
+Letter 11:
+т (shift 18): 0,652
+ш (shift 24): 0,692
+ф (shift 20): 0,71
+
+-----------------------------------------
+-------------FOR 12 LETTER PHRASE:
+Letter 1:
+ю (shift 29): 0,609
+а (shift 0): 0,619
+э (shift 28): 0,651
+Letter 2:
+а (shift 0): 0,604
+щ (shift 25): 0,647
+э (shift 28): 0,699
+Letter 3:
+р (shift 16): 0,71
+г (shift 3): 0,756
+ю (shift 29): 0,758
+Letter 4:
+ь (shift 27): 0,705
+я (shift 30): 0,71
+г (shift 3): 0,72
+Letter 5:
+т (shift 18): 0,638
+ж (shift 6): 0,642
+й (shift 9): 0,714
+Letter 6:
+щ (shift 25): 0,619
+э (shift 28): 0,621
+л (shift 11): 0,657
+Letter 7:
+п (shift 15): 0,686
+ф (shift 20): 0,746
+р (shift 16): 0,765
+Letter 8:
+е (shift 5): 0,71
+ж (shift 6): 0,753
+и (shift 8): 0,757
+Letter 9:
+щ (shift 25): 0,628
+з (shift 7): 0,729
+й (shift 9): 0,73
+Letter 10:
+ж (shift 6): 0,686
+и (shift 8): 0,703
+б (shift 1): 0,728
+Letter 11:
+р (shift 16): 0,635
+л (shift 11): 0,72
+ф (shift 20): 0,731
+Letter 12:
+ь (shift 27): 0,715
+д (shift 4): 0,747
+г (shift 3): 0,75
+
+-----------------------------------------
+-------------FOR 13 LETTER PHRASE:
+Letter 1:
+л (shift 11): 0,613
+ь (shift 27): 0,675
+г (shift 3): 0,695
+Letter 2:
+н (shift 13): 0,669
+и (shift 8): 0,731
+ь (shift 27): 0,752
+Letter 3:
+у (shift 19): 0,714
+щ (shift 25): 0,717
+л (shift 11): 0,722
+Letter 4:
+ф (shift 20): 0,625
+б (shift 1): 0,66
+ю (shift 29): 0,676
+Letter 5:
+д (shift 4): 0,63
+б (shift 1): 0,637
+и (shift 8): 0,672
+Letter 6:
+й (shift 9): 0,588
+ж (shift 6): 0,646
+н (shift 13): 0,649
+Letter 7:
+а (shift 0): 0,661
+г (shift 3): 0,669
+ю (shift 29): 0,682
+Letter 8:
+щ (shift 25): 0,672
+з (shift 7): 0,685
+ж (shift 6): 0,721
+Letter 9:
+ж (shift 6): 0,671
+з (shift 7): 0,699
+г (shift 3): 0,71
+Letter 10:
+ф (shift 20): 0,626
+р (shift 16): 0,688
+г (shift 3): 0,688
+Letter 11:
+м (shift 12): 0,654
+к (shift 10): 0,659
+р (shift 16): 0,661
+Letter 12:
+ч (shift 23): 0,738
+ц (shift 22): 0,744
+ш (shift 24): 0,749
+Letter 13:
+э (shift 28): 0,66
+п (shift 15): 0,671
+щ (shift 25): 0,706
+
+-----------------------------------------
+-------------FOR 14 LETTER PHRASE:
+Letter 1:
+г (shift 3): 0,705
+ж (shift 6): 0,709
+а (shift 0): 0,73
+Letter 2:
+е (shift 5): 0,704
+ю (shift 29): 0,738
+б (shift 1): 0,747
+Letter 3:
+ш (shift 24): 0,628
+т (shift 18): 0,633
+у (shift 19): 0,645
+Letter 4:
+ц (shift 22): 0,613
+х (shift 21): 0,623
+а (shift 0): 0,696
+Letter 5:
+р (shift 16): 0,64
+м (shift 12): 0,765
+н (shift 13): 0,786
+Letter 6:
+ж (shift 6): 0,66
+а (shift 0): 0,748
+и (shift 8): 0,752
+Letter 7:
+в (shift 2): 0,665
+э (shift 28): 0,709
+я (shift 30): 0,728
+Letter 8:
+э (shift 28): 0,537
+щ (shift 25): 0,698
+у (shift 19): 0,716
+Letter 9:
+п (shift 15): 0,597
+в (shift 2): 0,773
+х (shift 21): 0,782
+Letter 10:
+е (shift 5): 0,633
+э (shift 28): 0,696
+в (shift 2): 0,708
+Letter 11:
+з (shift 7): 0,677
+р (shift 16): 0,68
+л (shift 11): 0,685
+Letter 12:
+д (shift 4): 0,616
+з (shift 7): 0,642
+м (shift 12): 0,661
+Letter 13:
+о (shift 14): 0,689
+ж (shift 6): 0,715
+ф (shift 20): 0,763
+Letter 14:
+б (shift 1): 0,644
+ж (shift 6): 0,657
+в (shift 2): 0,684
+
+-----------------------------------------
+-------------FOR 15 LETTER PHRASE:
+Letter 1:
+ж (shift 6): 0,66
+в (shift 2): 0,725
+и (shift 8): 0,726
+Letter 2:
+ж (shift 6): 0,592
+й (shift 9): 0,633
+г (shift 3): 0,674
+Letter 3:
+ц (shift 22): 0,678
+н (shift 13): 0,747
+с (shift 17): 0,758
+Letter 4:
+п (shift 15): 0,685
+й (shift 9): 0,687
+л (shift 11): 0,69
+Letter 5:
+б (shift 1): 0,524
+ю (shift 29): 0,699
+ж (shift 6): 0,715
+Letter 6:
+ш (shift 24): 0,763
+р (shift 16): 0,773
+ц (shift 22): 0,815
+Letter 7:
+б (shift 1): 0,643
+а (shift 0): 0,646
+ы (shift 26): 0,656
+Letter 8:
+ж (shift 6): 0,651
+к (shift 10): 0,691
+в (shift 2): 0,714
+Letter 9:
+б (shift 1): 0,622
+ю (shift 29): 0,723
+ж (shift 6): 0,724
+Letter 10:
+ю (shift 29): 0,566
+б (shift 1): 0,69
+ч (shift 23): 0,696
+Letter 11:
+и (shift 8): 0,617
+л (shift 11): 0,695
+е (shift 5): 0,72
+Letter 12:
+я (shift 30): 0,709
+щ (shift 25): 0,718
+г (shift 3): 0,719
+Letter 13:
+и (shift 8): 0,684
+н (shift 13): 0,692
+л (shift 11): 0,698
+Letter 14:
+э (shift 28): 0,691
+в (shift 2): 0,716
+п (shift 15): 0,727
+Letter 15:
+в (shift 2): 0,728
+п (shift 15): 0,802
+ч (shift 23): 0,809
+
+-----------------------------------------
+-------------FOR 16 LETTER PHRASE:
+Letter 1:
+п (shift 15): 0,769
+м (shift 12): 0,81
+о (shift 14): 0,85
+Letter 2:
+в (shift 2): 0,851
+ч (shift 23): 0,928
+б (shift 1): 0,937
+Letter 3:
+л (shift 11): 0,934
+и (shift 8): 0,949
+ц (shift 22): 0,953
+Letter 4:
+ж (shift 6): 0,831
+й (shift 9): 0,842
+и (shift 8): 0,905
+Letter 5:
+д (shift 4): 0,797
+г (shift 3): 0,809
+ч (shift 23): 0,831
+Letter 6:
+э (shift 28): 0,778
+б (shift 1): 0,811
+щ (shift 25): 0,835
+Letter 7:
+л (shift 11): 0,824
+в (shift 2): 0,877
+о (shift 14): 0,898
+Letter 8:
+а (shift 0): 0,772
+э (shift 28): 0,789
+н (shift 13): 0,793
+Letter 9:
+м (shift 12): 0,871
+щ (shift 25): 0,878
+п (shift 15): 0,917
+Letter 10:
+ш (shift 24): 0,741
+ю (shift 29): 0,765
+ы (shift 26): 0,778
+Letter 11:
+ю (shift 29): 0,817
+с (shift 17): 0,936
+д (shift 4): 0,938
+Letter 12:
+в (shift 2): 0,688
+е (shift 5): 0,768
+д (shift 4): 0,827
+Letter 13:
+ь (shift 27): 0,754
+о (shift 14): 0,782
+э (shift 28): 0,786
+Letter 14:
+щ (shift 25): 0,808
+т (shift 18): 0,837
+п (shift 15): 0,875
+Letter 15:
+п (shift 15): 0,756
+р (shift 16): 0,804
+т (shift 18): 0,806
+Letter 16:
+г (shift 3): 0,846
+д (shift 4): 0,848
+б (shift 1): 0,858
+
+-----------------------------------------
+-------------FOR 17 LETTER PHRASE:
+Letter 1:
+л (shift 11): 0,646
+м (shift 12): 0,682
+щ (shift 25): 0,714
+Letter 2:
+г (shift 3): 0,683
+х (shift 21): 0,683
+ю (shift 29): 0,689
+Letter 3:
+щ (shift 25): 0,753
+д (shift 4): 0,761
+я (shift 30): 0,776
+Letter 4:
+ы (shift 26): 0,758
+т (shift 18): 0,806
+щ (shift 25): 0,806
+Letter 5:
+ж (shift 6): 0,608
+ч (shift 23): 0,67
+е (shift 5): 0,71
+Letter 6:
+ю (shift 29): 0,665
+и (shift 8): 0,703
+ь (shift 27): 0,711
+Letter 7:
+к (shift 10): 0,707
+б (shift 1): 0,717
+д (shift 4): 0,729
+Letter 8:
+в (shift 2): 0,683
+п (shift 15): 0,712
+я (shift 30): 0,718
+Letter 9:
+я (shift 30): 0,714
+г (shift 3): 0,755
+с (shift 17): 0,81
+Letter 10:
+в (shift 2): 0,682
+б (shift 1): 0,852
+э (shift 28): 0,861
+Letter 11:
+ф (shift 20): 0,694
+ш (shift 24): 0,736
+ю (shift 29): 0,736
+Letter 12:
+д (shift 4): 0,793
+ж (shift 6): 0,8
+ы (shift 26): 0,816
+Letter 13:
+з (shift 7): 0,679
+ж (shift 6): 0,691
+д (shift 4): 0,773
+Letter 14:
+д (shift 4): 0,686
+ь (shift 27): 0,753
+ж (shift 6): 0,772
+Letter 15:
+ш (shift 24): 0,652
+у (shift 19): 0,66
+л (shift 11): 0,673
+Letter 16:
+ж (shift 6): 0,551
+г (shift 3): 0,66
+л (shift 11): 0,692
+Letter 17:
+е (shift 5): 0,752
+э (shift 28): 0,791
+п (shift 15): 0,806
+
+-----------------------------------------
+-------------FOR 18 LETTER PHRASE:
+Letter 1:
+с (shift 17): 0,702
+й (shift 9): 0,775
+б (shift 1): 0,794
+Letter 2:
+б (shift 1): 0,66
+а (shift 0): 0,759
+л (shift 11): 0,768
+Letter 3:
+л (shift 11): 0,639
+щ (shift 25): 0,7
+р (shift 16): 0,729
+Letter 4:
+я (shift 30): 0,642
+ь (shift 27): 0,687
+ю (shift 29): 0,713
+Letter 5:
+п (shift 15): 0,692
+ф (shift 20): 0,724
+т (shift 18): 0,725
+Letter 6:
+я (shift 30): 0,701
+ь (shift 27): 0,767
+э (shift 28): 0,777
+Letter 7:
+ю (shift 29): 0,611
+а (shift 0): 0,614
+ж (shift 6): 0,657
+Letter 8:
+и (shift 8): 0,641
+е (shift 5): 0,651
+я (shift 30): 0,794
+Letter 9:
+щ (shift 25): 0,717
+ц (shift 22): 0,727
+р (shift 16): 0,755
+Letter 10:
+и (shift 8): 0,636
+н (shift 13): 0,744
+щ (shift 25): 0,774
+Letter 11:
+ж (shift 6): 0,642
+й (shift 9): 0,675
+о (shift 14): 0,685
+Letter 12:
+б (shift 1): 0,633
+г (shift 3): 0,649
+ж (shift 6): 0,666
+Letter 13:
+к (shift 10): 0,759
+т (shift 18): 0,813
+р (shift 16): 0,814
+Letter 14:
+а (shift 0): 0,658
+щ (shift 25): 0,736
+э (shift 28): 0,739
+Letter 15:
+з (shift 7): 0,62
+ж (shift 6): 0,664
+в (shift 2): 0,672
+Letter 16:
+ж (shift 6): 0,635
+ф (shift 20): 0,664
+ч (shift 23): 0,718
+Letter 17:
+р (shift 16): 0,605
+и (shift 8): 0,654
+ж (shift 6): 0,681
+Letter 18:
+щ (shift 25): 0,607
+и (shift 8): 0,666
+ж (shift 6): 0,698
+
+-----------------------------------------
+-------------FOR 19 LETTER PHRASE:
+Letter 1:
+г (shift 3): 0,57
+в (shift 2): 0,647
+ю (shift 29): 0,697
+Letter 2:
+ы (shift 26): 0,697
+ю (shift 29): 0,714
+р (shift 16): 0,728
+Letter 3:
+й (shift 9): 0,683
+м (shift 12): 0,693
+б (shift 1): 0,706
+Letter 4:
+з (shift 7): 0,714
+л (shift 11): 0,736
+в (shift 2): 0,801
+Letter 5:
+л (shift 11): 0,629
+е (shift 5): 0,637
+г (shift 3): 0,669
+Letter 6:
+э (shift 28): 0,815
+п (shift 15): 0,854
+щ (shift 25): 0,905
+Letter 7:
+ш (shift 24): 0,718
+ц (shift 22): 0,744
+я (shift 30): 0,769
+Letter 8:
+а (shift 0): 0,685
+ж (shift 6): 0,706
+б (shift 1): 0,723
+Letter 9:
+т (shift 18): 0,804
+р (shift 16): 0,82
+у (shift 19): 0,838
+Letter 10:
+т (shift 18): 0,717
+п (shift 15): 0,732
+у (shift 19): 0,736
+Letter 11:
+р (shift 16): 0,749
+ш (shift 24): 0,773
+ф (shift 20): 0,815
+Letter 12:
+л (shift 11): 0,718
+т (shift 18): 0,741
+ф (shift 20): 0,741
+Letter 13:
+ь (shift 27): 0,67
+ц (shift 22): 0,742
+й (shift 9): 0,746
+Letter 14:
+в (shift 2): 0,684
+я (shift 30): 0,756
+г (shift 3): 0,78
+Letter 15:
+ц (shift 22): 0,643
+д (shift 4): 0,656
+т (shift 18): 0,686
+Letter 16:
+м (shift 12): 0,75
+п (shift 15): 0,775
+о (shift 14): 0,794
+Letter 17:
+а (shift 0): 0,759
+н (shift 13): 0,779
+ч (shift 23): 0,78
+Letter 18:
+ж (shift 6): 0,791
+ф (shift 20): 0,804
+з (shift 7): 0,83
+Letter 19:
+ж (shift 6): 0,612
+л (shift 11): 0,651
+г (shift 3): 0,714
+
+-----------------------------------------
+-------------FOR 20 LETTER PHRASE:
+Letter 1:
+т (shift 18): 0,695
+р (shift 16): 0,746
+ь (shift 27): 0,82
+Letter 2:
+щ (shift 25): 0,764
+т (shift 18): 0,857
+з (shift 7): 0,905
+Letter 3:
+п (shift 15): 0,838
+к (shift 10): 0,876
+р (shift 16): 0,883
+Letter 4:
+б (shift 1): 0,814
+г (shift 3): 0,875
+й (shift 9): 0,9
+Letter 5:
+п (shift 15): 0,748
+м (shift 12): 0,764
+щ (shift 25): 0,767
+Letter 6:
+л (shift 11): 0,6
+а (shift 0): 0,738
+о (shift 14): 0,74
+Letter 7:
+у (shift 19): 0,704
+р (shift 16): 0,721
+х (shift 21): 0,764
+Letter 8:
+и (shift 8): 0,705
+д (shift 4): 0,723
+ц (shift 22): 0,765
+Letter 9:
+п (shift 15): 0,699
+й (shift 9): 0,7
+к (shift 10): 0,778
+Letter 10:
+щ (shift 25): 0,774
+б (shift 1): 0,776
+ч (shift 23): 0,797
+Letter 11:
+г (shift 3): 0,813
+р (shift 16): 0,888
+в (shift 2): 0,924
+Letter 12:
+и (shift 8): 0,675
+а (shift 0): 0,683
+г (shift 3): 0,736
+Letter 13:
+о (shift 14): 0,724
+с (shift 17): 0,762
+ж (shift 6): 0,778
+Letter 14:
+щ (shift 25): 0,744
+г (shift 3): 0,812
+ж (shift 6): 0,821
+Letter 15:
+о (shift 14): 0,714
+л (shift 11): 0,731
+ф (shift 20): 0,765
+Letter 16:
+е (shift 5): 0,625
+и (shift 8): 0,728
+ж (shift 6): 0,835
+Letter 17:
+а (shift 0): 0,669
+я (shift 30): 0,688
+г (shift 3): 0,7
+Letter 18:
+э (shift 28): 0,649
+ы (shift 26): 0,711
+а (shift 0): 0,771
+Letter 19:
+л (shift 11): 0,715
+п (shift 15): 0,735
+ф (shift 20): 0,758
+Letter 20:
+ь (shift 27): 0,743
+б (shift 1): 0,765
+в (shift 2): 0,766
+
+-----------------------------------------
